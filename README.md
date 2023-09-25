@@ -1,4 +1,4 @@
-# Jogo da Forca em Python
+# Jogo da Forca em Python com Interface Gráfica
 
 Este é um script Python que implementa o clássico jogo da forca em uma interface gráfica usando a biblioteca Tkinter. O jogo permite que o jogador insira seu nome, escolha um nível de dificuldade e adivinhe uma palavra oculta a partir de dicas fornecidas. O objetivo é adivinhar a palavra antes de cometer seis erros, desenhando parte por parte de um boneco enforcado.
 
